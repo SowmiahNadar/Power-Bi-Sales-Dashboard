@@ -58,6 +58,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Special thanks to [Power BI](https://powerbi.microsoft.com/) for providing an excellent platform for data visualization and analysis.
 
-Author: [Sowmiah_Nadar](https://neuralthread.cloud/sowmiah)
+Author: [Sowmiah Nadar](https://neuralthread.cloud/sowmiah)
 
 Happy analyzing! If you have any questions or need further assistance, don't hesitate to reach out.
